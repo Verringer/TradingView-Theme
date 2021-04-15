@@ -18,3 +18,7 @@ At the top of the .css file, you can easily swap out the variables for your own 
 ## Performance
 
 I've noticed some performance issues with TradingView while this theme is active, admittedly - I get similar issues without the theme on Mac / Opera but I figured it was worth mentioning. If this occurs to you then please open a ticket, some practices in here are a bit quick + easy and perhaps could be contributing to some performance issues.
+
+## Screenshot
+
+![TradingView-Theme by Verringer](https://verringer.com/wp-content/uploads/2021/02/image.png)
